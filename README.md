@@ -1,7 +1,7 @@
-- 👋 Hi I'm @PabelH
-- 👀 I am interested in constantly practicing and learning
-- 🌱 I am currently learning about fullstack development
-- 💞️ Looking to collaborate in web development
+- 👋 Hi, I'm @PabelH!!!
+- 👀 I am interested in constantly learning and improving.
+- 🌱 I am currently learning about fullstack development.
+- 💞️ Looking to collaborate on web development.
 - 📫 Contact: pabel.hernandez@live.com
 
 <!---
